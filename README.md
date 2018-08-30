@@ -7,3 +7,6 @@ Log all requests and responses of REST end points of controlles with payload.
 
 # Result
 - the log will look like this :
+<br>
+  <a href="#"><img src="https://github.com/nilankamanoj/SpringRequestResponseLogger/blob/master/screenshot.png?raw=true" ></a>
+  <br>
